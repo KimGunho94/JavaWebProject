@@ -14,20 +14,20 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/c3p0-0.9.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/cos.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/gson-2.10.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/javax.activation_1.1.0.v201211130549.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/javax.mail-1.6.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/json-simple-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/log4j-1.2.16.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/ojdbc6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/quartz-2.3.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/quartz-jobs-2.3.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/slf4j-api-1.7.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/slf4j-log4j12-1.7.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/고상운이 프로젝트/WEB-INF/lib/spring-core-4.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/cos.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/gson-2.10.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/javax.activation_1.1.0.v201211130549.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/quartz-2.3.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/quartz-jobs-2.3.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/프로젝트/WEB-INF/lib/spring-core-4.2.1.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
